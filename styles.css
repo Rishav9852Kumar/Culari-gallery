@@ -98,5 +98,7 @@ a{
     font-size: 2vw;
 }
 footer{
-    color:rgb(175, 174, 171)
+    display:flex;
+    color:rgb(175, 174, 171);
+    justify-content: space-around;
 }
